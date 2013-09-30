@@ -5,9 +5,6 @@
         <title></title>
     </head>
     <body>
-        <?php
-        // put your code here
-        // NEUER EINTRAG 30.09.2013 23:35 -1
-        ?>
+        <?php echo "TEST 1a1a1a"; ?>
     </body>
 </html>
